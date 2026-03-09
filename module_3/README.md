@@ -1,3 +1,7 @@
+# ALY6130 – Risk Management for Analytics  
+# ServiceNow–Armis Risk Assessment Project  
+# Northeastern University  
+# Group 4
 # Module 3 – Risk Assessment
 
 This folder contains the Module 3 deliverables for the ALY6130 Risk Management for Analytics Final Project.
