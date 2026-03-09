@@ -1,6 +1,6 @@
 # Module 3 – Risk Assessment
 
-This folder contains the Module 3 deliverables for the ALY6130 Risk Management Analytics Final Project.
+This folder contains the Module 3 deliverables for the ALY6130 Risk Management for Analytics Final Project.
 
 ## File
 Group4_Module3_Risk_Assessment.xlsx
