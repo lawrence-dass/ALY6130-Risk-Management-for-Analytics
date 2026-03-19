@@ -15,6 +15,7 @@ ALY6130-Risk-Management-for-Analytics/
 ├── module_1/          # SWOT Analysis
 ├── module_2/          # Risk Identification & Risk Register
 ├── module_3/          # Risk Assessment
+├── module_4/          # Quantitative Risk Analysis
 └── README.md          # This file
 ```
 
@@ -56,7 +57,20 @@ ALY6130-Risk-Management-for-Analytics/
 - Written risk assessment report (PDF)
 - Python Jupyter notebook for programmatic heatmap generation
 
-**Location:** `module_3/assignment_3/`
+**Location:** `module_3/assignment/`
+
+---
+
+### Module 4: Quantitative Risk Analysis
+**Focus:** I&W Framework, Monte Carlo simulation, and ML-based risk classification
+
+**Deliverables:**
+- Jupyter notebook with programmatic heatmap, RandomForest risk classification, and Monte Carlo simulation
+- Written risk assessment report (docx)
+- Risk Register Excel workbook with KRI, treatment plans, and escalation triggers
+- Supporting data (feature importance, ML training data, Monte Carlo summary, risk parameters)
+
+**Location:** `module_4/assignment/`
 
 ---
 

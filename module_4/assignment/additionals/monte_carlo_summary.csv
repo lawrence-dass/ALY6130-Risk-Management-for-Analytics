@@ -1,0 +1,14 @@
+Metric,Value
+Risk 1 Mean Loss,$66.2M
+Risk 1 Std Dev,$47.0M
+Risk 2 Mean Loss,$82.9M
+Risk 2 Std Dev,$61.7M
+Risk 3 Mean Upside,$198.9M
+Risk 3 Std Dev,$87.0M
+Net Mean Impact,$49.8M
+Net Median Impact,$56.3M
+Net Std Dev,$117.5M
+Net 5th Percentile (VaR 95%),$-166.6M
+Net 95th Percentile,$230.5M
+Probability of Net Loss,31.1%
+Probability of Net Gain,68.1%
