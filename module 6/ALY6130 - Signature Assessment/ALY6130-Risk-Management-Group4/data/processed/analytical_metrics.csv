@@ -1,0 +1,26 @@
+risk_id,risk_name,category,risk_type,likelihood,impact,risk_score,priority,probability,tri_mean_if_occurs_m,expected_signed_m,portfolio_variance,kri_status
+R3,Regulatory-Driven Demand Acceleration,Regulatory,Positive,9,8,72,HIGH,0.9,220.0,198.0,7611.0,Green
+R19,OT/IoT Security Market Growth Opportunity,Market,Positive,7,8,56,HIGH,0.7,116.66666666666667,81.66666666666667,3702.222222222221,Amber
+R20,Cross-Sell Revenue via Existing Customer Base,Market,Positive,7,8,56,HIGH,0.7,101.66666666666667,71.16666666666667,2871.555555555554,Amber
+R2,AI-Driven Platform Convergence Risk,Strategic,Negative,7,9,63,HIGH,0.7,120.0,-84.0,3770.666666666666,Amber
+R1,Competitive Displacement by Rival Mega-Acquisitions,Strategic,Negative,7,8,56,HIGH,0.7,93.33333333333333,-65.33333333333333,2253.222222222221,Amber
+R13,AI Technology Obsolescence,Strategic,Negative,7,8,56,HIGH,0.7,78.33333333333333,-54.83333333333333,1610.3888888888891,Amber
+R17,Customer Migration to Competitor Platforms,Strategic,Negative,7,8,56,HIGH,0.7,71.66666666666667,-50.166666666666664,1371.222222222223,Amber
+R23,AI Governance and Regulatory Ethics Risk,Regulatory,Negative,5,9,45,HIGH,0.5,83.33333333333333,-41.666666666666664,2088.8888888888887,Amber
+R15,Legal Liability from Compliance Failures,Regulatory,Negative,7,6,42,MEDIUM,0.7,43.333333333333336,-30.333333333333332,538.2222222222222,Amber
+R5,Acquisition Overvaluation Risk,Financial,Negative,5,8,40,MEDIUM,0.5,150.0,-75.0,6458.333333333334,Amber
+R6,Integration Overload from Multi-Acquisition Complexity,Operational,Negative,5,6,30,MEDIUM,0.5,21.666666666666668,-10.833333333333334,143.05555555555554,Amber
+R7,Technology Architecture Incompatibility,Technical,Negative,5,6,30,MEDIUM,0.5,21.666666666666668,-10.833333333333334,143.05555555555554,Amber
+R8,Cybersecurity Talent Shortage,Operational,Negative,5,6,30,MEDIUM,0.5,19.333333333333332,-9.666666666666666,112.30555555555554,Amber
+R9,Post-Acquisition Organisational Disruption,Operational,Negative,5,6,30,MEDIUM,0.5,19.333333333333332,-9.666666666666666,112.30555555555554,Amber
+R10,Asset Visibility Data Accuracy Gaps,Technical,Negative,5,6,30,MEDIUM,0.5,13.333333333333334,-6.666666666666667,54.63888888888889,Amber
+R11,Infrastructure Instability During Integration,Operational,Negative,5,6,30,MEDIUM,0.5,13.333333333333334,-6.666666666666667,54.63888888888889,Amber
+R12,Security Vulnerabilities During Merger Integration,Technical,Negative,5,6,30,MEDIUM,0.5,21.666666666666668,-10.833333333333334,143.05555555555554,Amber
+R14,Global Regulatory Compliance Complexity,Regulatory,Negative,5,6,30,MEDIUM,0.5,13.333333333333334,-6.666666666666667,54.63888888888889,Amber
+R16,Infrastructure and Cloud Cost Expansion,Financial,Negative,5,6,30,MEDIUM,0.5,21.666666666666668,-10.833333333333334,143.05555555555554,Amber
+R24,Third-Party Cloud Infrastructure Dependency,Technical,Negative,5,6,30,MEDIUM,0.5,13.333333333333334,-6.666666666666667,54.63888888888889,Red
+R18,Economic Slowdown Reducing Cybersecurity Spend,Market,Negative,5,6,30,MEDIUM,0.5,21.666666666666668,-10.833333333333334,143.05555555555554,Amber
+R4,Cybersecurity Market Consolidation Pressure,Strategic,Negative,5,6,30,MEDIUM,0.5,19.333333333333332,-9.666666666666666,112.30555555555554,Amber
+R21,Minor Operational Workflow Misalignment,Operational,Negative,3,4,12,LOW,0.3,2.5,-0.75,1.5749999999999997,Amber
+R22,Short-Term Customer Transition Uncertainty,Market,Negative,3,2,6,LOW,0.3,2.0,-0.6,1.0025,Amber
+R25,Vendor Lock-In Limiting Technology Flexibility,Technical,Negative,3,6,18,LOW,0.3,6.0,-1.7999999999999998,9.11,Amber
