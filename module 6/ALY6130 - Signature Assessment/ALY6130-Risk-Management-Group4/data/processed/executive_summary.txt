@@ -1,0 +1,48 @@
+EXECUTIVE SUMMARY - SERVICENOW/ARMIS ENTERPRISE RISK ANALYTICS
+======================================================================
+
+QUANTITATIVE RISK REGISTER (25 RISKS)
+  Total risks: 25 (3 positive, 22 negative)
+  Priority distribution: 8 HIGH, 14 MEDIUM, 3 LOW
+
+ANALYTICAL EXPECTED VALUES
+  Sum positive expected impacts: $+350.8M
+  Sum negative expected impacts: $-514.3M
+  Net analytical expected impact: $-163.5M
+
+MONTE CARLO SIMULATION (n=10,000, seed=42)
+  Net expected annual impact:   $-163.7M
+  Standard deviation:           $182.7M
+  5th percentile (downside):    $-470.5M
+  95th percentile (upside):     $+131.9M
+  90% confidence interval:      $-470.5M to $+131.9M
+  Probability of net loss:      nan
+
+CATEGORY PORTFOLIO BREAKDOWN
+  Strategic           : $-265.0M (P(loss): 99.7%)
+  Financial           : $-84.5M (P(loss): 74.5%)
+  Operational         : $-37.7M (P(loss): 95.5%)
+  Technical           : $-36.8M (P(loss): 95.5%)
+  Regulatory          : $+119.9M (P(loss): 13.4%)
+  Market              : $+140.4M (P(loss): 5.9%)
+
+MACHINE LEARNING MODEL
+  CV Accuracy:        77.8% (SD: 3.7%)
+  CV ROC-AUC:         85.8% (SD: 3.0%)
+  Escalation prob (current state): 58.2%
+  Top 3 features:     win_rate, ai_parity, integration_prog
+
+KRI CURRENT STATUS
+  Green: 1 risk (R3 - Regulatory Pipeline Growth)
+  Red:   1 risk (R24 - Multi-Cloud Redundancy)
+  Amber: 23 risks
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+           0       0.72      0.76      0.74       205
+           1       0.82      0.79      0.81       295
+
+    accuracy                           0.78       500
+   macro avg       0.77      0.77      0.77       500
+weighted avg       0.78      0.78      0.78       500
